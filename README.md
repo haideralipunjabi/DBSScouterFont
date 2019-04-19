@@ -1,7 +1,6 @@
 # DBSScouter Font
-Font for the language used in Scouters in [Dragon Ball Series]().  
+Scouter Language Font as seen in [Dragon Ball Super: Broly](https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly)
 
-![Demo Image]()
 
 ## Available Characters 
 | | |
@@ -11,8 +10,8 @@ Font for the language used in Scouters in [Dragon Ball Series]().
 |Symbols| . |  
 
 ## Credit
-* SVGs made in [InkScape]()
-* Fonts generated using [FontForge]()
+* SVGs made in [InkScape](https://inkscape.org/)
+* Fonts generated using [FontForge](https://fontforge.github.io/)
 
-Based on work of [@SummerFlux]() as showed in [this reddit post](https://www.reddit.com/r/dbz/comments/beh38x/i_figured_out_what_the_scouters_say_dbs_broly)
+Based on work of [@SummerFlux](https://www.reddit.com/user/SummerFlux) as showed in [this reddit post](https://www.reddit.com/r/dbz/comments/beh38x/i_figured_out_what_the_scouters_say_dbs_broly)
 
