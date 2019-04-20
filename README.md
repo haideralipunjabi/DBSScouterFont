@@ -1,6 +1,7 @@
 # DBSScouter Font
 Scouter Language Font as seen in [Dragon Ball Super: Broly](https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly)
 
+![Demo Image](demo.png)
 
 ## Available Characters 
 | | |
